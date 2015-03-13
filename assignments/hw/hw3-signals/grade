@@ -1,9 +1,9 @@
-58 / 100
+78 / 100
 
 PATH variable: 10/40
-    [00/10] Execute a program in the working directory.
+    [10/10] Execute a program in the working directory.
     [10/10] Execute a program not in the working directory.
-    [00/10] Execute a program using an absolute path.
+    [10/10] Execute a program using an absolute path.
     [00/10] Attempt to execute a program that does not exist.
            This should throw an error.
 
@@ -24,4 +24,4 @@ extra credit: 00/20
     [0/6] fg
     [0/6] bg
 
-Total: 58/100
+Total: 78/100
